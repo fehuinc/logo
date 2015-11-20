@@ -1,1 +1,1 @@
-![https://raw.githubusercontent.com/fulveland/logo/master/logo.svg]
+The Fehu logo
